@@ -1,25 +1,25 @@
 # JerryQu 的个人博客
-前端大佬 JerryQu  的秒开个人博客：[https://imququ.com）](https://imququ.com]() 备份  
+前端大佬 JerryQu  的秒开个人博客：[https://imququ.com](https://imququ.com) 备份  
 自2024年12月28日关站后，这个优质博客就无法访问了，出于学习、观摩目的，备份该博客内容。
 
 ## 一、备份
 
 ### 1.WayBackMachine（最后可见备份2024年11月23日）
 
-[https://web.archive.org/web/20241123011127/https://imququ.com/post/archives.html）](https://web.archive.org/web/20241123011127/https://imququ.com/post/archives.html)
+[https://web.archive.org/web/20241123011127/https://imququ.com/post/archives.html](https://web.archive.org/web/20241123011127/https://imququ.com/post/archives.html)
 
 ![image](./blog-index.png)
 
 ### 2.MOBI电子书版（作者本人最后修改于 2016 年 08 月 22 日）
 
-1.DropBOX（作者本人）：
+1.DropBOX（作者本人）：  
 [https://www.dropbox.com/s/e79xi1g4urqskrw/JerryQu%E7%9A%84%E5%B0%8F%E7%AB%99.mobi?dl=0](https://www.dropbox.com/s/e79xi1g4urqskrw/JerryQu%E7%9A%84%E5%B0%8F%E7%AB%99.mobi?dl=0)
 
-2.GitHub
-（1）GitHub官方：
-（2）中国大陆加速地址：
-封面预览：
-![Kindle mobi](./imququ-for-kindle-1.jpg)
+2.GitHub  
+（1）[GitHub官方](https://github.com/NorthNanmu/JerryQu-Blog-Backup/raw/refs/heads/main/JerryQu%E7%9A%84%E5%B0%8F%E7%AB%99.mobi)  
+（2）[中国大陆加速地址](https://hk.gh-proxy.com/https://raw.githubusercontent.com/NorthNanmu/JerryQu-Blog-Backup/main/JerryQu%E7%9A%84%E5%B0%8F%E7%AB%99.mobi)  
+封面预览：  
+![Kindle mobi](./imququ-for-kindle-1.jpg)  
 
 ## 二、文章归档（WayBackMachine链接）
 
